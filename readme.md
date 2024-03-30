@@ -288,7 +288,7 @@ json是在软件开发常用一种数据组织形式。
 未提供步骤
 ```
 
-![image_20240325181636964](/Users/wanghe/Work/aicourse/images/image_20240325181636964.png)
+![image_20240325181636964](./images/image_20240325181636964.png)
 
 #####  策略4： “小样本”提示 
 
@@ -322,7 +322,7 @@ json是在软件开发常用一种数据组织形式。
 
 
 
-![image_20240323211436741](/Users/wanghe/Work/aicourse/images/image_20240323211436741.png)
+![image_20240323211436741](./images/image_20240323211436741.png)
 
 
 
@@ -842,7 +842,7 @@ graph LR
 
 > 输出
 
-![image_20240326155434891](/Users/wanghe/Work/aicourse/images/image_20240326155434891.png)
+![image_20240326155434891](./images/image_20240326155434891.png)
 
 
 
@@ -948,7 +948,7 @@ graph LR
 
 ```
 
-![image_20240327122412655](/Users/wanghe/Work/aicourse/images/image_20240327122412655.png)
+![image_20240327122412655](./images/image_20240327122412655.png)
 
 
 
@@ -1283,7 +1283,7 @@ for t in text:
 
 
 
-![image_20240327164032522](/Users/wanghe/Work/aicourse/images/image_20240327164032522.png)
+![image_20240327164032522](./images/image_20240327164032522.png)
 
 
 
@@ -1470,7 +1470,7 @@ AI客户代理
   瓶装水 5.00
 ```
 
-![image_20240327180426346](/Users/wanghe/Work/aicourse/images/image_20240327180426346.png)
+![image_20240327180426346](./images/image_20240327180426346.png)
 
 
 
@@ -1488,7 +1488,7 @@ AI客户代理
 
 
 
-![image_20240327183508373](/Users/wanghe/Work/aicourse/images/image_20240327183508373.png)
+![image_20240327183508373](./images/image_20240327183508373.png)
 
 
 
