@@ -61,9 +61,6 @@ description: 关于如何编写大模型的prompt的一系列课
 
 
 
-[TOC]
-
-
 
 # 前言
 
