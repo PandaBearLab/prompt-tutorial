@@ -432,16 +432,16 @@ step by step
 > 输出
 
 ````
-总结：杰克和吉尔在探险中遭遇不幸，但最终平安归来，展现出了坚韧不拔的冒险精神。
-
-Traduction en français : Jack et Jill ont rencontré un malheur lors de leur aventure, mais sont finalement rentrés chez eux en toute sécurité, démontrant un esprit d'aventure résilient.
-
-Noms en français : Jack, Jill
-
-JSON 对象：
+1. 总结： 
+在一个迷人的村庄里，兄弟姐妹杰克和吉尔在探险途中遭遇了不幸，但最终安全返回家中，他们的探险精神未受影响。  
+2. 英语翻译：  
+In a charming village, siblings Jack and Jill faced misfortune on their adventure but returned home safely, their adventurous spirit undiminished.  
+3. 列出的名字：  
+Jack, Jill  
+4. JSON 对象输出：  
 ```json
 {
-  "french_summary": "Jack et Jill ont rencontré un malheur lors de leur aventure, mais sont finalement rentrés chez eux en toute sécurité, démontrant un esprit d'aventure résilient.",
+  "english_summary": "In a charming village, siblings Jack and Jill faced misfortune on their adventure but returned home safely, their adventurous spirit undiminished.",
   "num_names": 2
 }
 ```
